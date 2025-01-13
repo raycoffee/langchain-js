@@ -1,0 +1,17 @@
+{
+  "name": "langchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/openai": "^0.3.17",
+    "dotenv": "^16.4.7"
+  }
+}

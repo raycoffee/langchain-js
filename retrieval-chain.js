@@ -72,4 +72,4 @@ const response = await retrievalChain.invoke({
     input: "What is LCEL?",
 })
 
-// console.log(response)
+console.log(vectorStore)

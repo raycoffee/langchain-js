@@ -104,7 +104,7 @@ const chatHistory = [
 ]
 
 const response = await chain.invoke({
-    input: "What is it?",
+    input: "What's my name btw?'",
     chat_history: chatHistory
 })
 
